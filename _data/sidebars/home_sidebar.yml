@@ -3,6 +3,10 @@
 entries:
 - title: sidebar
   folders:
+  - title: Home
+    output: web
+    type: frontmatter
+    url: /index.html
   - title: Contributing
     output: web
     type: frontmatter

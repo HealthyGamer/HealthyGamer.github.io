@@ -3,30 +3,28 @@
 topnav:
 - title: Topnav
   items:
+    - title: Home
+      external_url: https://www.healthygamer.gg/
+    - title: Watch
+      external_url: https://www.twitch.tv/healthygamer_gg
+    - title: Subscribe
+      external_url: https://www.youtube.com/channel/UClHVl2N3jPEbkNJVx-ItQIQ
+    - title: Follow
+      external_url: https://twitter.com/HealthyGamerGG
+    - title: Listen
+      external_url: https://open.spotify.com/show/6VaJwyS2KXxiXqR77jqzmP
     - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: News
-      url: /news
+      external_url: https://github.com/HealthyGamer/HealthyGamer.github.io
 
 #Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Jekyll Help
-      folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
-    - title: Products
-      folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+# topnav_dropdowns:
+# - title: Topnav dropdowns
+#   folders:
+#     - title: Jekyll Help
+#       folderitems:
+#         - title: Jekyll Talk
+#           external_url: https://talk.jekyllrb.com
+#         - title: Jekyll documentation
+#           external_url: http://jekyllrb.com/docs/home/
+#         - title: Jekyll on Stack Overflow
+#           external_url: http://stackoverflow.com/questions/tagged/jekyll
