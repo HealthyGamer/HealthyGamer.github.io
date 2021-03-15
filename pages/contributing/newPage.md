@@ -7,6 +7,6 @@ permalink: themeinfo.html
 summary: How to create a new page on the site
 ---
 
-
+ 
 
 {% include links.html %}

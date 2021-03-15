@@ -19,3 +19,7 @@ entries:
       url: /themeinfo.html
       output: web
       type: frontmatter
+    - title: Useful Tools
+      url: /contributionTools.html
+      output: web
+      type: frontmatter
