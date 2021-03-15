@@ -15,8 +15,8 @@ entries:
       url: /overview.html
       output: web
       type: frontmatter
-    - title: Theme Info
-      url: /themeinfo.html
+    - title: Creating Pages
+      url: /newPage.html
       output: web
       type: frontmatter
     - title: Useful Tools
