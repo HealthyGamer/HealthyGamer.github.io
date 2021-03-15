@@ -6,30 +6,6 @@ sidebar: home_sidebar
 permalink: python_intro_workshop.html
 ---
 
-## Intro to Programming with Python I
-[Drive Link](https://drive.google.com/drive/folders/1VSn6OqzK8_Eu6QWRfgBM2lEIfS746WGV){:target="_blank"}
-
-### Intro to Programming Mini Pilot - 15 Feb 2020
-<iframe src="https://drive.google.com/file/d/1iPiGaS70TGs6vHvUJ9xO09PKxZ4X2ZNp/preview" width="640" height="480"></iframe>
-
-### Intro to Programming w Python - 22 Feb 2020
-<iframe src="https://drive.google.com/file/d/1xV3on6pJ4VFoZOhzLTSGODZLiH61HTtf/preview" width="640" height="480"></iframe>
-
-### Intro to Programming - 29 Feb 2020
-[Code](https://pastebin.com/KTwvnGRG){:target="_blank"}
-
-<iframe src="https://drive.google.com/file/d/1lUaXpOfXoamWNzuRzcLNliz_RvTXrS9v/preview" width="640" height="480"></iframe>
-
-## Intro to Programming with Python - 8 March 2020
-[Code](https://pastebin.com/TvySHAU2){:target="_blank"}
-
-[Drive Link](https://drive.google.com/drive/folders/1bsw3xcpXM36id2zds3fq94TmjrcZwGoB){:target="_blank"}
-
-## Intro to Programming with Python - 15 March 2020
-[Code](https://pastebin.com/01g1u3Qz){:target="_blank"}
-
-[Drive Link](https://drive.google.com/drive/folders/1LLDYCkngdMgX05DwM2UWS-HwbDhKCkAQ){:target="_blank"}
-
 ## Intro to Programming with Python - 21 March 2020
 [Code](https://pastebin.com/CUvPt3z6){:target="_blank"}
 

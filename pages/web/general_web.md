@@ -26,3 +26,16 @@ permalink: web_dev_resources.html
 
 ## Introducing SWAG - Secure Web Application Gateway
 [Link](https://blog.linuxserver.io/2020/08/21/introducing-swag/){:target="_blank"}
+
+### egghead.io 
+*Paid*
+[Link](https://egghead.io/){:target="_blank"}
+
+## TheCodePlayer
+[Link](https://thecodeplayer.com/){:target="_blank"}
+
+## HTML Dog
+[Link](https://htmldog.com/){:target="_blank"}
+
+## Web Development for Beginners - A Curriculum - Microsoft
+[Github Repo](https://github.com/microsoft/Web-Dev-For-Beginners){:target="_blank"}

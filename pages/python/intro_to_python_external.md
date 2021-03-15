@@ -37,5 +37,18 @@ permalink: python_intro.html
 ## Learn X in Y minutes Where X=Python
 [Link](https://learnxinyminutes.com/docs/python/){:target="_blank"}
 
-## Python Guide from Jarnis
+## Python Guide from @Jarnis
 [Link](/docs/python_guide.pdf){:target="_blank"}
+
+## Python Education - Reddit
+[r/learnpython](https://www.reddit.com/r/learnpython/wiki/index){:target="_blank"}
+
+## Python Challenge
+[Link](http://www.pythonchallenge.com/){:target="_blank"}
+
+## Coursera Courses
+- [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation){:target="_blank"}
+- [Problem Solving, Python Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games){:target="_blank"}
+- [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai){:target="_blank"}
+- [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python){:target="_blank"}
+- [Python Data Analysis](https://www.coursera.org/learn/python-analysis){:target="_blank"}

@@ -18,3 +18,6 @@ permalink: coding_tools.html
 ## Compiler Explorer
 *Compiler Explorer allows you to see the assembly your code builds to on a variety of different compilers*
 [Link](https://godbolt.org/){:target="_blank"}
+
+## Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows
+[Link](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows){:target="_blank"}

@@ -39,6 +39,9 @@ entries:
     - title: Math Resources
       url: /math_resources.html
       output: web
+    - title: Interesting Stuff
+      url: /interesting_stuff.html
+      output: web
     - title: For Students
       url: /for_students.html
       output: web
@@ -72,7 +75,10 @@ entries:
     - title: General Resources
       url: /general_resources.html
       output: web
-    - title: Node Resources
+    - title: Javascript
+      url: /javascript_resources.html
+      output: web
+    - title: Node
       url: /node_resources.html
       output: web
 

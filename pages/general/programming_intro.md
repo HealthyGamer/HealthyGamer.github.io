@@ -21,9 +21,6 @@ permalink: programing_intro.html
 List of iconic CS textbooks
 [Link](https://teachyourselfcs.com/){:target="_blank"}
 
-### Crafting Interpreters
-[Link](https://www.craftinginterpreters.com/contents.html){:target="_blank"}
-
 ### fast.ai
 [Link](https://www.fast.ai/){:target="_blank"}
 
@@ -38,17 +35,20 @@ List of iconic CS textbooks
 ### Learn Git Branching
 [Link](https://learngitbranching.js.org/){:target="_blank"}
 
-### Resource Collection from Lyter
+### Resource Collection from @Lyter
 [Google Drive Link](https://drive.google.com/drive/folders/1fHDAInJljq-3VcSKNmilznxzdJZZ_cao){:target="_blank"}
 
 ### HackerOne - Amazon Vulnerability Research Program
 [Link](https://hackerone.com/amazonvrp?type=team){:target="_blank"}
 
-### Learning High Level Math by MyGoodSir
+### Learning High Level Math by @MyGoodSir
 [Link](/docs/HowToRead.pdf){:target="_blank"}
 
-### Racket, the Programming Language
-[Link](https://racket-lang.org/){:target="_blank"}
+### Computer Stuff They Didn't Teach You - Scott Hanselman
+[Youtube Playlist](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr){:target="_blank"}
+
+### C#: From Zero To Hero
+[Github Repo](https://github.com/csinn/CSharp-From-Zero-To-Hero){:target="_blank"}
 
 ## Design Patterns
 
@@ -61,13 +61,35 @@ List of iconic CS textbooks
 ### Game Programming Patterns
 [Link](http://gameprogrammingpatterns.com/contents.html){:target="_blank"}
 
+### This is The Entire Computer Science Curriculum in 1000 YouTube Videos
+[Link](https://laconicml.com/computer-science-curriculum-youtube-videos/){:target="_blank"}
+
+### Learn Data Science For Free - therealsreehari
+[Github Repo](https://github.com/therealsreehari/Learn-Data-Science-For-Free){:target="_blank"}
+
+### OWASP Cheat Sheet Series
+[Link](https://cheatsheetseries.owasp.org/index.html){:target="_blank"}
+
+### Human Resource Machine
+*Also available for mobile and console. Currently $14.99 USD on Steam*
+[Steam Link](https://store.steampowered.com/app/375820/Human_Resource_Machine/){:target="_blank"}
+
+### Zero to Mastery Deep Learning with TensorFlow
+[Github Repo](https://github.com/mrdbourke/tensorflow-deep-learning){:target="_blank"}
+
 ## Algorithms
 
 ### Introduction to Algorithms - Prof. Erik Demaine & Prof. Srini Devadas
 [Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/){:target="_blank"}
 
 ## Youtube Channels
+
+__awesome-youtubers - JoseDeFreitas__
+[Github Repo](https://github.com/JoseDeFreitas/awesome-youtubers){:target="_blank"}
+
 [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ/videos){:target="_blank"}
 [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg){:target="_blank"}
 [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw){:target="_blank"}
-[My Good Sir](My Good Sir){:target="_blank"}
+[My Good Sir](https://www.youtube.com/channel/UCyXDeJ8BoBQVN7z2V9zUPFA){:target="_blank"}
+[Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/playlists){:target="_blank"}
+[Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos){:target="_blank"}

@@ -10,9 +10,6 @@ permalink: general_game_dev.html
 Game that has accompanying tutorials and the full source code
 [Link](https://handmadehero.org/){:target="_blank"}
 
-## Welcome to OpenGL
-[Link](https://learnopengl.com/){:target="_blank"}
-
 ## Game Programming Patterns
 [Link](http://gameprogrammingpatterns.com/contents.html){:target="_blank"}
 
