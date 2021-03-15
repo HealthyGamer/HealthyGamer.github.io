@@ -7,7 +7,7 @@ permalink: unity_resources.html
 ---
 
 ## Unity3D Game Essentials - Renaissance Coders
-[Playlist](https://www.youtube.com/watch?v=qkKuGmGRF2k&list=PL4CCSwmU04MiFVUqeDUYQaRIebMs8_dHX)
+[Playlist](https://www.youtube.com/watch?v=qkKuGmGRF2k&list=PL4CCSwmU04MiFVUqeDUYQaRIebMs8_dHX){:target="_blank"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qkKuGmGRF2k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

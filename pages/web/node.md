@@ -1,12 +1,12 @@
 ---
-title: React Resources
+title: Node Resources
 keywords: theme
 tags: [contributing]
 sidebar: home_sidebar
-permalink: react_resources.html
+permalink: node_resources.html
 ---
 
 ## Deep Dive Into Modern Web Development
 Full Stack open 2021
 
-[Link](https://fullstackopen.com/en/)
+[Link](https://fullstackopen.com/en/){:target="_blank"}

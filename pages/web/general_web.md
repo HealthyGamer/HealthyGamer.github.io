@@ -1,0 +1,20 @@
+---
+title: Web Dev
+keywords: theme
+tags: [contributing]
+sidebar: home_sidebar
+permalink: web_dev_resources.html
+---
+
+## Frontend Developer
+*Step by step guide to becoming a modern frontend developer*
+[Link](https://roadmap.sh/frontend){:target="_blank"}
+[Youtube](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now){:target="_blank"}
+
+## Introduction To Responsive Web Design - HTML & CSS Tutorial - freeCodeCamp.org
+[link](https://www.youtube.com/watch?v=srvUrASNj0s){:target="_blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/srvUrASNj0s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Ten modern layouts in one line of CSS
+[Link](https://web.dev/one-line-layouts/){:target="_blank"}

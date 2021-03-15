@@ -20,6 +20,7 @@ entries:
     - title: Sandbox - Python Game
       url: /python_game.html
       output: web
+
   - title: General Coding
     output: web
     folderitems:
@@ -29,6 +30,29 @@ entries:
     - title: Learning Sites
       url: /learning_sites.html
       output: web
+    - title: Coding Tools
+      url: /coding_tools.html
+      output: web
+    - title: Interview Prep
+      url: /interview_prep.html
+      output: web
+    - title: For Students
+      url: /for_students.html
+      output: web
+
+  - title: Game Dev
+    output: web
+    folderitems:
+      - title: General Game Dev
+        url: /general_game_dev.html
+        output: web
+      - title: Unity
+        url: /unity_resources.html
+        output: web
+      - title: Graphics
+        url: /graphics.html
+        output: web
+
   - title: Python
     output: web
     folderitems:
@@ -38,12 +62,17 @@ entries:
     - title: Python Resources
       url: /python_resources.html
       output: web
-  - title: Javascript
+
+  - title: Javascript / Web
     output: web
     folderitems:
+    - title: General Resources
+      url: /general_resources.html
+      output: web
     - title: Node Resources
       url: /node_resources.html
       output: web
+      
   - title: Java
     output: web
     folderitems:
