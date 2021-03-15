@@ -1,4 +1,4 @@
-# Healthy Gamer Coding Resources Repository
+# Healthy Gamer Coding Workshop Resources
 
 ## What is Healthy Gamer?
 [Healthy Gamer](https://www.healthygamer.gg/about-us/) is on a mission to change the face of mental health. Because we’ve been there. And you deserve the support of people who get it. Our goal is to deliver accessible, inclusive, and affordable resources to gamers who need a way forward.
