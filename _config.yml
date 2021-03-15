@@ -3,10 +3,10 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Healthy Gamer Dev Resources
+topnav_title: Healthy Gamer Coding Workshop Resources
 # this appears on the top navigation bar next to the home button
 
-site_title: Healthy Gamer Dev Resources
+site_title: Healthy Gamer Coding Workshop Resources
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Healthy Gamer
@@ -98,16 +98,12 @@ defaults:
 
 sidebars:
 - home_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
 
 description: ""
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
 url: https://www.healthygamer.gg/
-# baseurl: /documentation-theme-jekyll
 
 
 github: [metadata]

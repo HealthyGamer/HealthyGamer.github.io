@@ -1,25 +1,40 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
-
 entries:
 - title: sidebar
   folders:
-  - title: Home
-    output: web
-    type: frontmatter
-    url: /index.html
   - title: Contributing
     output: web
-    type: frontmatter
     folderitems:
     - title: Overview
       url: /overview.html
       output: web
-      type: frontmatter
-    - title: Creating Pages
-      url: /newPage.html
+
+  - title: Workshops
+    output: web
+    folderitems:
+    - title: Intro To Coding
+      url: /python_intro_workshop.html
       output: web
-      type: frontmatter
-    - title: Useful Tools
-      url: /contributionTools.html
+    - title: Intro To Full Stack
+      url: /fullstack_intro_workshop.html
       output: web
-      type: frontmatter
+    - title: Python Game
+      url: /python_game.html
+      output: web
+  - title: General Coding
+    output: web
+    folderitems:
+    - title: Intro to Programming
+      url: /programing_intro.html
+      output: web
+    - title: Learning Sites
+      url: /learning_sites.html
+      output: web
+    - title: Coding Tools
+      url: /coding_tools.html
+      output: web
+  - title: Python
+    output: web
+    folderitems:
+    - title: Intro to Python
+      url: /python_intro.html
+      output: web
