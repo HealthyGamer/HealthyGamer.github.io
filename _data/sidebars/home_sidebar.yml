@@ -36,6 +36,9 @@ entries:
     - title: Interview Prep
       url: /interview_prep.html
       output: web
+    - title: Math Resources
+      url: /math_resources.html
+      output: web
     - title: For Students
       url: /for_students.html
       output: web
@@ -72,7 +75,7 @@ entries:
     - title: Node Resources
       url: /node_resources.html
       output: web
-      
+
   - title: Java
     output: web
     folderitems:

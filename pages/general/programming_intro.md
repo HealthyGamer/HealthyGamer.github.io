@@ -41,6 +41,15 @@ List of iconic CS textbooks
 ### Resource Collection from Lyter
 [Google Drive Link](https://drive.google.com/drive/folders/1fHDAInJljq-3VcSKNmilznxzdJZZ_cao){:target="_blank"}
 
+### HackerOne - Amazon Vulnerability Research Program
+[Link](https://hackerone.com/amazonvrp?type=team){:target="_blank"}
+
+### Learning High Level Math by MyGoodSir
+[Link](/docs/HowToRead.pdf){:target="_blank"}
+
+### Racket, the Programming Language
+[Link](https://racket-lang.org/){:target="_blank"}
+
 ## Design Patterns
 
 ### Design Patterns - Refactoring Guru

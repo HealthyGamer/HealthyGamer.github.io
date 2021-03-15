@@ -24,14 +24,6 @@ http://nehe.gamedev.net/
 https://open.gl/
 https://www.3dgep.com/
 
-## Math
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
-http://www.euclideanspace.com/
-https://eater.net/quaternions
-https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/
-
 ## Other
 
 ### How to program 3D graphics from scratch. Without 3D engines. (In Python)

@@ -33,3 +33,9 @@ permalink: python_intro.html
 
 ## Python Koans
 [Github Repo](https://github.com/gregmalcolm/python_koans){:target="_blank"}
+
+## Learn X in Y minutes Where X=Python
+[Link](https://learnxinyminutes.com/docs/python/){:target="_blank"}
+
+## Python Guide from Jarnis
+[Link](/docs/python_guide.pdf){:target="_blank"}

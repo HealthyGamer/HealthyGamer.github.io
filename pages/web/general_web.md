@@ -18,3 +18,11 @@ permalink: web_dev_resources.html
 
 ## Ten modern layouts in one line of CSS
 [Link](https://web.dev/one-line-layouts/){:target="_blank"}
+
+## Top 10 Javascript Tricks You Didn't Know! - Dev Ed
+[Link](https://www.youtube.com/watch?v=mNJ06S60B9k){:target="_blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mNJ06S60B9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Introducing SWAG - Secure Web Application Gateway
+[Link](https://blog.linuxserver.io/2020/08/21/introducing-swag/){:target="_blank"}
