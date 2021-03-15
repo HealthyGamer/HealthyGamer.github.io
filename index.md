@@ -1,5 +1,5 @@
 ---
-title: Healthy Gamer Dev Resources
+title: Healthy Gamer Coding Workshop Resources
 keywords: homepage
 tags: [homepage]
 sidebar: home_sidebar

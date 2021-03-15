@@ -24,6 +24,9 @@ entries:
   - title: General Coding
     output: web
     folderitems:
+    - title: FAQ
+      url: /index.html
+      output: web
     - title: Intro to Programming
       url: /programing_intro.html
       output: web
