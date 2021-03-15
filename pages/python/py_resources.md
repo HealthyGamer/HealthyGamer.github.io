@@ -1,9 +1,9 @@
 ---
-title: Python Courses
+title: Python Resources
 keywords: theme
 tags: [contributing]
 sidebar: home_sidebar
-permalink: python_courses.html
+permalink: python_resources.html
 ---
 
 ## Automate the Boring Stuff with Python Programming - Al Sweigart

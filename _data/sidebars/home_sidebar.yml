@@ -17,7 +17,7 @@ entries:
     - title: Intro To Full Stack
       url: /fullstack_intro_workshop.html
       output: web
-    - title: Python Game
+    - title: Sandbox - Python Game
       url: /python_game.html
       output: web
   - title: General Coding
@@ -29,12 +29,24 @@ entries:
     - title: Learning Sites
       url: /learning_sites.html
       output: web
-    - title: Coding Tools
-      url: /coding_tools.html
-      output: web
   - title: Python
     output: web
     folderitems:
     - title: Intro to Python
       url: /python_intro.html
+      output: web
+    - title: Python Resources
+      url: /python_resources.html
+      output: web
+  - title: Javascript
+    output: web
+    folderitems:
+    - title: Node Resources
+      url: /node_resources.html
+      output: web
+  - title: Java
+    output: web
+    folderitems:
+    - title: Java Resources
+      url: /java_resources.html
       output: web
