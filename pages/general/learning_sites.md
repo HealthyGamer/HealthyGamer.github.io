@@ -20,7 +20,8 @@ _Courses are free, certificates are paid_
 [Link](https://openclassrooms.com/en/courses){:target="_blank"}
 
 ### Every Programmer Should Know - mtdvio
-_Not a learning site itself but a Github repo with links to a large number of other resources_
+*Not a learning site itself but a Github repo with links to a large number of other resources*
+
 [Link](https://github.com/mtdvio/every-programmer-should-know){:target="_blank"}
 
 ### The Odin Project

@@ -30,6 +30,7 @@ permalink: web_dev_resources.html
 
 ### egghead.io 
 *Paid*
+
 [Link](https://egghead.io/){:target="_blank"}
 
 ## TheCodePlayer

@@ -7,7 +7,8 @@ permalink: general_game_dev.html
 ---
 
 ## Handmade Hero
-Game that has accompanying tutorials and the full source code
+*Game that has accompanying tutorials and the full source code*
+
 [Link](https://handmadehero.org/){:target="_blank"}
 
 ## Game Programming Patterns

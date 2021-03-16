@@ -69,7 +69,7 @@ entries:
     output: web
     folderitems:
     - title: General Resources
-      url: /general_resources.html
+      url: /web_dev_resources.html
       output: web
     - title: Javascript
       url: /javascript_resources.html
