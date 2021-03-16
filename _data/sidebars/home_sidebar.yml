@@ -1,13 +1,6 @@
 entries:
 - title: sidebar
   folders:
-  - title: Contributing
-    output: web
-    folderitems:
-    - title: Overview
-      url: /overview.html
-      output: web
-
   - title: Workshops
     output: web
     folderitems:
@@ -90,4 +83,11 @@ entries:
     folderitems:
     - title: Java Resources
       url: /java_resources.html
+      output: web
+
+  - title: Contributing
+    output: web
+    folderitems:
+    - title: Overview
+      url: /overview.html
       output: web
