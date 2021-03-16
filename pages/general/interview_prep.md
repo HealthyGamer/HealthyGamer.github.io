@@ -10,7 +10,8 @@ permalink: interview_prep.html
 [Link](https://projecteuler.net/){:target="_blank"}
 
 ## Leet Code
-*Has paid tier*
+*Has a paid tier*
+
 [Link](https://leetcode.com/){:target="_blank"}
 
 ## exercism

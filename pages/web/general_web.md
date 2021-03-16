@@ -8,6 +8,7 @@ permalink: web_dev_resources.html
 
 ## Frontend Developer
 *Step by step guide to becoming a modern frontend developer*
+
 [Link](https://roadmap.sh/frontend){:target="_blank"}
 [Youtube](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now){:target="_blank"}
 

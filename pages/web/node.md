@@ -7,6 +7,6 @@ permalink: node_resources.html
 ---
 
 ## Deep Dive Into Modern Web Development
-Full Stack open 2021
+*Full Stack open 2021*
 
 [Link](https://fullstackopen.com/en/){:target="_blank"}

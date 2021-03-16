@@ -13,6 +13,7 @@ permalink: learning_sites.html
 
 ### EdX.org
 _Courses are free, certificates are paid_
+
 [Link](https://www.edx.org/course/subject/computer-science){:target="_blank"}
 
 ### Open Classrooms
@@ -30,6 +31,7 @@ _Not a learning site itself but a Github repo with links to a large number of ot
 
 ### Harvard Courses Online
 *Most are through EdX- certificates of completion may not be free*
+
 [Link](https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=3&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=){:target="_blank"}
 
 ### edabit
@@ -72,4 +74,5 @@ _Not a learning site itself but a Github repo with links to a large number of ot
 
 ### egghead.io 
 *Web development focused, but also has AWS*
+
 [Link](https://egghead.io/){:target="_blank"}

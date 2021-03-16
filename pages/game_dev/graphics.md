@@ -26,6 +26,7 @@ permalink: graphics.html
 ## Graphics Debugging
 ### RenderDoc
 *RenderDoc is a free MIT licensed stand-alone graphics debugger*
+
 [Link](https://renderdoc.org/){:target="_blank"}
 
 ### AMD GPUOpen

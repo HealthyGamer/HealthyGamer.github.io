@@ -15,6 +15,7 @@ Game that has accompanying tutorials and the full source code
 
 ## Raytracer-In-Excel - s0lly
 *It's slow and eats up all your memory and cpu due to being implemented in Excel*
+
 [Link](https://github.com/s0lly/Raytracer-In-Excel){:target="_blank"}
 
 ## Coding Game

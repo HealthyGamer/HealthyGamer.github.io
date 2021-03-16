@@ -7,7 +7,8 @@ permalink: python_resources.html
 ---
 
 ## Automate the Boring Stuff with Python Programming - Al Sweigart
-_Udemy_
+*Udemy*
+
 [Link](https://www.udemy.com/course/automate/){:target="_blank"}
 
 ## How to program 3D graphics from scratch. Without 3D engines. (In Python)
@@ -20,4 +21,5 @@ _Udemy_
 
 ## Transformers
 *State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0*
+
 [Link](https://huggingface.co/transformers/){:target="_blank"}
