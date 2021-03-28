@@ -19,7 +19,10 @@ permalink: interesting_stuff.html
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OyfBQmvr2Hc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Systems Recipies
+## Pentest Monkey
+[Link](http://pentestmonkey.net/){:target="_blank"}
+
+## Systems Recipies
 *Newsletter*
 
 [Link](https://digest.systems.recipes/){:target="_blank"}

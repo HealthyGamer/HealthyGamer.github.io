@@ -64,6 +64,7 @@ gem install jekyll bundler
 4. If you want to rename the folder you can run `mv HealthyGamer.github.io {new folder name}`
 5. cd into your new folder
 6. Type `code .` to open the repo as a project in VS Code. If this is your first time working in the WSL, VS Code may need to do some setup before the code editor comes up.
+7. Run `bundle install` to pull gems into your local dev environment
 7. You can setup a launch.json file or run `bundle exec jekyll serve --livereload` in the terminal for local debugging.
 There are also quite a few markdown preview plugins for VS Code. The downside to the plugin approach is that it will only show the markdown, not the full Jekyll site.
 

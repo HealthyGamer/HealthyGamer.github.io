@@ -60,6 +60,7 @@ _Courses are free, certificates are paid_
 - [digitaldefynd](https://digitaldefynd.com/best-free-certification-course-training-online/){:target="_blank"}
 - [guru99](https://www.guru99.com/free-online-course-with-certificate.html){:target="_blank"}
 - [SkillScouter](https://skillscouter.com/best-free-online-courses-certificates/){:target="_blank"}
+- [cloudcommunity Free Certification List](https://github.com/cloudcommunity/Free-Certifications){:target="_blank"}
 
 
 ## Paid

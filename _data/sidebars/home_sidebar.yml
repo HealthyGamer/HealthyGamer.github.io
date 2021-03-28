@@ -38,6 +38,9 @@ entries:
     - title: Interesting Stuff
       url: /interesting_stuff.html
       output: web
+    - title: Events
+      url: /sales_and_events.html
+      output: web
     - title: For Students
       url: /for_students.html
       output: web

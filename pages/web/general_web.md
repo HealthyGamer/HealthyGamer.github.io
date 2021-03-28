@@ -41,3 +41,6 @@ permalink: web_dev_resources.html
 
 ## Web Development for Beginners - A Curriculum - Microsoft
 [Github Repo](https://github.com/microsoft/Web-Dev-For-Beginners){:target="_blank"}
+
+## Khalil Stemmler
+[Link](https://khalilstemmler.com/articles/){:target="_blank"}
