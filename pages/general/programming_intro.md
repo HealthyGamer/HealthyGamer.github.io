@@ -52,8 +52,11 @@ List of iconic CS textbooks
 
 ## Design Patterns
 
+### Design Patterns for Humans - kamranahmedse
+[Github Repo](https://github.com/csinn/CSharp-From-Zero-To-Hero){:target="_blank"}
+
 ### Design Patterns - Refactoring Guru
-[Link](https://refactoring.guru/design-patterns/catalog){:target="_blank"}
+[Link](https://github.com/kamranahmedse/design-patterns-for-humans){:target="_blank"}
 
 ### Data-Oriented Design - Richard Fabian
 [Link](https://www.dataorienteddesign.com/dodbook/){:target="_blank"}
@@ -71,7 +74,7 @@ List of iconic CS textbooks
 [Link](https://cheatsheetseries.owasp.org/index.html){:target="_blank"}
 
 ### Human Resource Machine
-*Also available for mobile and console. Currently $14.99 USD on Steam*
+*Currently $14.99 USD on Steam. Also available for mobile and console.*
 [Steam Link](https://store.steampowered.com/app/375820/Human_Resource_Machine/){:target="_blank"}
 
 ### Zero to Mastery Deep Learning with TensorFlow
@@ -84,12 +87,10 @@ List of iconic CS textbooks
 
 ## Youtube Channels
 
-__awesome-youtubers - JoseDeFreitas__
-[Github Repo](https://github.com/JoseDeFreitas/awesome-youtubers){:target="_blank"}
-
-[Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ/videos){:target="_blank"}
-[Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg){:target="_blank"}
-[thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw){:target="_blank"}
-[My Good Sir](https://www.youtube.com/channel/UCyXDeJ8BoBQVN7z2V9zUPFA){:target="_blank"}
-[Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/playlists){:target="_blank"}
-[Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos){:target="_blank"}
+- [Github Repo](https://github.com/JoseDeFreitas/awesome-youtubers){:target="_blank"}
+- [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ/videos){:target="_blank"}
+- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg){:target="_blank"}
+- [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw){:target="_blank"}
+- [My Good Sir](https://www.youtube.com/channel/UCyXDeJ8BoBQVN7z2V9zUPFA){:target="_blank"}
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/playlists){:target="_blank"}
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos){:target="_blank"}
