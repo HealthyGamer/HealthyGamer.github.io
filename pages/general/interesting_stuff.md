@@ -20,9 +20,20 @@ permalink: interesting_stuff.html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OyfBQmvr2Hc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pentest Monkey
+
 [Link](http://pentestmonkey.net/){:target="_blank"}
 
 ## Systems Recipies
 *Newsletter*
 
 [Link](https://digest.systems.recipes/){:target="_blank"}
+
+## How to self study technical things - Tina Huang
+
+[Link](https://www.youtube.com/watch?v=_EzmbCuoFcU){:target="_blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_EzmbCuoFcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Ben Eater -  Tutorial-style videos about electronics, computer architecture, networking, and various other technical subjects
+
+[Link](https://www.youtube.com/user/eaterbc){:target="_blank"}

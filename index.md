@@ -24,7 +24,7 @@ https://www.youtube.com/channel/UCaAL9YGR_rMoJw8ML8A8Svg
 ## I'm 25/35/45/69 years old. Is it too late to start programming?
 You can learn to program and possibly have a career at any age. Learning is something you can do at any age.
 
-## I suck at math, can I still code?
+## I suck at math-- can I still code?
 Absolutely. Being good at math is not a necessity for programming, although certain fields do have a greater emphasis. 2D and 3D games will make frequent use of vectors, matrices, and linear algebra; data analysis and machine learning make use of many concepts from statistics and calculus; and working out algorithmic complexity is easier if you have a good grasp on algebra and basic calculus. However, just as many aspects of computer science and programming do not require a good understanding of math. The only things you really need to know are how to add, subtract, multiply, and divide, and maybe a little basic algebra. Many programmers go through their entire career with having to do barely any math at all.
 
 ## Do I need to go to (a good) college to become a programmer?

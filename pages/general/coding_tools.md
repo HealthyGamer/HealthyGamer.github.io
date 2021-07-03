@@ -24,4 +24,9 @@ permalink: coding_tools.html
 [Link](https://godbolt.org/){:target="_blank"}
 
 ## Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows
+
 [Link](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows){:target="_blank"}
+
+## shields.io - Badges for Github Repos
+
+[Link](https://shields.io/){:target="_blank"}

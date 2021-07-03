@@ -44,3 +44,6 @@ permalink: web_dev_resources.html
 
 ## Khalil Stemmler
 [Link](https://khalilstemmler.com/articles/){:target="_blank"}
+
+## Kitten Placeholder Images
+[Link](https://placekitten.com/){:target="_blank"}

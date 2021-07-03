@@ -10,3 +10,6 @@ permalink: react_resources.html
 *Full Stack open 2021*
 
 [Link](https://fullstackopen.com/en/){:target="_blank"}
+
+## React Hook Tutorials Playlist - Ben Awad
+[Link](https://www.youtube.com/watch?v=9xhKH43llhU&list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM){:target="_blank"}
