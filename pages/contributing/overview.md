@@ -8,9 +8,9 @@ layout: contributing
 summary: Instructions for contributing to these docs
 ---
 
-If you'd like to suggest changes, you can open a PR against the repository. You can make your edits either on your computer or within Github itself.
+If you'd like to suggest changes, you can open a PR against the repository. You can make your edits either on your computer or within GitHub itself.
 
-## Making Edits Inside Github
+## Making Edits Inside GitHub
 
 If you are only suggesting small changes, then it can be easier to edit within Github instead of forking the repo and working on your local machine.
 
