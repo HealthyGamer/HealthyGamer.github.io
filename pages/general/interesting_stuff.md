@@ -1,7 +1,7 @@
 ---
 title: Interesting Stuff
 keywords: theme
-tags: [contributing]
+tags: [contributing, stuff]
 sidebar: home_sidebar
 permalink: interesting_stuff.html
 ---
