@@ -19,7 +19,7 @@ You're not forcing yourself to really make sure you understand the material by t
 This is totally normal. The best programmers in the world forget and look things up. The real skill is in knowing what to look up.
 
 ## Where can I find the old workshop videos?
-https://www.youtube.com/channel/UCaAL9YGR_rMoJw8ML8A8Svg
+You can find old workshop videos [on youtube](https://www.youtube.com/channel/UCaAL9YGR_rMoJw8ML8A8Svg){:target="_blank"}.
 
 ## I'm 25/35/45/69 years old. Is it too late to start programming?
 You can learn to program and possibly have a career at any age. Learning is something you can do at any age.
